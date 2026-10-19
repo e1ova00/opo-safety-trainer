@@ -56,10 +56,8 @@ window.OPO = (function () {
       <text x="32" y="68" font-size="22" font-weight="700" text-anchor="middle" fill="#111">!</text>
       <circle cx="92" cy="54" r="24" fill="#fff" stroke="#c62828" stroke-width="6"/>
       <line x1="75" y1="37" x2="109" y2="71" stroke="#c62828" stroke-width="6"/>
-      <circle cx="152" cy="54" r="24" fill="#1565c0"/>
-      <text x="152" y="62" font-size="20" font-weight="700" text-anchor="middle" fill="#fff">i</text>
-      <rect x="186" y="32" width="48" height="44" rx="3" fill="#2e7d32"/>
-      <path d="M200 64 l8 -10 l-6 -6 m14 16 l-6 -12" stroke="#fff" stroke-width="3" fill="none"/>
+      <image href="img/sign-helmet.png" x="128" y="30" width="48" height="48"/>
+      <image href="img/sign-firstaid.png" x="186" y="30" width="48" height="48"/>
       <text x="32" y="104" class="t b" text-anchor="middle">1</text>
       <text x="92" y="104" class="t b" text-anchor="middle">2</text>
       <text x="152" y="104" class="t b" text-anchor="middle">3</text>
